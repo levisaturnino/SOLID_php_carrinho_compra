@@ -1,0 +1,16 @@
+{
+    "name": "levisaturnino/app_carrinho_compras",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Levi Saturnino",
+            "email": "levisaturnino@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "App\\":"src/"
+        }
+    }
+}
